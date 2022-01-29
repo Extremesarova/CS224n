@@ -1,0 +1,7 @@
+*.vec
+.ipynb_checkpoints
+*.bin
+*.gz
+venv/
+.idea
+__pycache__
