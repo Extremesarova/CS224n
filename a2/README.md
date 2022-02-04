@@ -6,3 +6,5 @@
   * [word2vec.py](https://github.com/Extremesarova/CS224n/blob/main/a2/word2vec.py)
   * [sgd.py](https://github.com/Extremesarova/CS224n/blob/main/a2/sgd.py)
   * [Word vectors plot and analysis](https://nbviewer.org/github/Extremesarova/CS224n/blob/main/a2/word2vec_coding.ipynb)
+
+NB: This is 2021 year's assignment.
